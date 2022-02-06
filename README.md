@@ -10,7 +10,7 @@ Lived in Seoul, Korea <br>
 </p>
 
 #
-<h3><b>🛠 Tech that I've experienced 🛠</b></h3>
+<h3><b>🛠 Techs that I've experienced 🛠</b></h3>
 <p>
 <img src="https://img.shields.io/badge/linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"> &nbsp  
 <img src="https://img.shields.io/badge/JAVA-007396?style=for-the-badge&logo=java&logoColor=white"> &nbsp
