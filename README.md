@@ -1,12 +1,12 @@
 <div align=center>
-<h3><b>:zap: About me :zap:</b></h3>
+<h3><b>:ghost: About me :ghost:</b></h3>
 <p>
 YeonGyeom Jo <br>
 Senior at Gachon University <br>
 Lived in Seoul, Korea <br>
 <br>
 <a href="https://www.instagram.com/jo3_.mo4/?hl=ko"><img src="https://img.shields.io/badge/jo3__.mo4-E4405F?style=flat-square&logo=Instagram&logoColor=white&"/></a>&nbsp
-<a href="trillion32@naver.com"><img src="https://img.shields.io/badge/trillion32@naver.com-EA4335?style=flat-square&logo=Gmail&logoColor=white&"/></a>&nbsp
+<a href="mailto:trillion32@naver.com"><img src="https://img.shields.io/badge/trillion32@naver.com-EA4335?style=flat-square&logo=Gmail&logoColor=white&"/></a>&nbsp
 </p>
 
 #
@@ -27,8 +27,9 @@ Lived in Seoul, Korea <br>
 </p>
 
 #
-<h3><b>🛠 About my github 🛠</b></h3>
+<h3><b>:zap: About my github :zap:</b></h3>
 <p>
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jomo34&layout=compact&theme=dracula)](https://github.com/jomo34)
 </p>
 </div>
