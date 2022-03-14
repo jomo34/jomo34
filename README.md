@@ -5,6 +5,7 @@ YeonGyeom Jo <br>
 Senior at Gachon University <br>
 Lived in Seoul, Korea <br>
 <br>
+<a href="https://velog.io/@jomo34"><img src="https://img.shields.io/badge/jomo34-20C997?style=flat-square&logo=velog&logoColor=white&"/></a>&nbsp 
 <a href="https://www.instagram.com/jo3_.mo4/?hl=ko"><img src="https://img.shields.io/badge/jo3__.mo4-E4405F?style=flat-square&logo=Instagram&logoColor=white&"/></a>&nbsp
 <a href="mailto:trillion32@naver.com"><img src="https://img.shields.io/badge/trillion32@naver.com-EA4335?style=flat-square&logo=Gmail&logoColor=white&"/></a>&nbsp
 </p>
@@ -24,6 +25,7 @@ Lived in Seoul, Korea <br>
 <img src="https://img.shields.io/badge/Raspberry Pi-A22846?style=for-the-badge&logo=RaspberryPi&logoColor=white"> &nbsp
 <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=Docker&logoColor=white"> &nbsp
 <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=Python&logoColor=black"> &nbsp
+<img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=React&logoColor=black"> &nbsp
 </p>
 
 #
