@@ -2,11 +2,10 @@
 <h3><b>:ghost: About me :ghost:</b></h3>
 <p>
 YeonGyeom Jo <br>
-3 at Gachon University <br>
+3rd grade at Gachon University <br>
 Lived in Seoul, Korea <br>
 <br>
-<a href="https://velog.io/@jomo34"><img src="https://img.shields.io/badge/jomo34-20C997?style=flat-square&logo=velog&logoColor=white&"/></a>&nbsp 
-<a href="https://www.instagram.com/jo3_.mo4/?hl=ko"><img src="https://img.shields.io/badge/jo3__.mo4-E4405F?style=flat-square&logo=Instagram&logoColor=white&"/></a>&nbsp
+<a href="https://velog.io/@jomo34"><img src="https://img.shields.io/badge/jomo34-20C997?style=flat-square&logo=velog&logoColor=white&"/></a>&nbsp
 <a href="mailto:trillion32@naver.com"><img src="https://img.shields.io/badge/trillion32@naver.com-EA4335?style=flat-square&logo=Gmail&logoColor=white&"/></a>&nbsp
 </p>
 
