@@ -2,7 +2,7 @@
 <h3><b>:ghost: About me :ghost:</b></h3>
 <p>
 YeonGyeom Jo <br>
-Senior at Gachon University <br>
+3 at Gachon University <br>
 Lived in Seoul, Korea <br>
 <br>
 <a href="https://velog.io/@jomo34"><img src="https://img.shields.io/badge/jomo34-20C997?style=flat-square&logo=velog&logoColor=white&"/></a>&nbsp 
