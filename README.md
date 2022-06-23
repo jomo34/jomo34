@@ -24,7 +24,7 @@ Lived in Seoul, Korea <br>
 <img src="https://img.shields.io/badge/Raspberry Pi-A22846?style=for-the-badge&logo=RaspberryPi&logoColor=white"> &nbsp
 <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=Docker&logoColor=white"> &nbsp
 <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=Python&logoColor=black"> &nbsp
-<img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=React&logoColor=black"> &nbsp
+<img src="https://img.shields.io/badge/React_Native-61DAFB?style=for-the-badge&logo=React&logoColor=black"> &nbsp
 </p>
 
 #
