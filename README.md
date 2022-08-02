@@ -37,5 +37,3 @@ Lived in Seoul, Korea <br>
 </div>
 
 
-
-
