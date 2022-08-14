@@ -35,5 +35,3 @@ Lived in Seoul, Korea <br>
 
 ![Jomo34's github stats](https://github-readme-stats.vercel.app/api?username=jomo34&show_icons=true&count_private=true&hide_title=true)
 </div>
-
-
