@@ -34,6 +34,7 @@ Lived in Seoul, Korea <br>
 <h3><b>:zap: About my github :zap:</b></h3>
 <p>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jomo34&layout=compact&hide=Starlark,Ruby&count_private=true)](https://github.com/jomo34)
+<a href="https://github.com/jomo34"><img align="center" style="height:180px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jomo34&layout=compact&theme=nord&hide_border=false" /></a> 
+
 ![Jomo34's github stats](https://github-readme-stats.vercel.app/api?username=jomo34&show_icons=true&count_private=true&hide_title=true)
 </div>
