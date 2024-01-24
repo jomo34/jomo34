@@ -1,6 +1,5 @@
 <p>
 Hi there✋<br>
-I'm YeonGyeom Jo <br>
-4th grade at Gachon University <br>
-Lived in Seoul, Korea <br>
+I'm studying front-end using React and Next.js <br>
+Graduated from Gachon University Software Department <br>
 </p>
